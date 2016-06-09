@@ -8,3 +8,4 @@ if [ -f `brew --prefix`/etc/bash_completion ]; then
 Fi
 
 source ~/.git-prompt.sh
+source ~/.git-completion.bash
