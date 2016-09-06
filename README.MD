@@ -1,6 +1,6 @@
 # GIT settings repository
 
-### 0. Instalujemy git completion ktoryms z polecen
+### 0. Instalujemy bash-completion ktoryms z polecen (nie pamietam ktore dziala)
     brew install bash-completion
     brew cask install bash-completion
 ### 1. Wchodzimy do katalogu glownego:
