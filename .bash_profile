@@ -5,7 +5,7 @@ PS1="\[\e[0;32m\]\u\[\e[m\] \[\e[1;34m\]\w\[\e[m\]\[\e[1;32m\]\$(__git_ps1)\$\[\
 
 if [ -f `brew --prefix`/etc/bash_completion ]; then
     . `brew --prefix`/etc/bash_completion
-Fi
+fi
 
 source ~/.git-prompt.sh
 source ~/.git-completion.bash
